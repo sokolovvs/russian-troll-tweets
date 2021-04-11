@@ -1,3 +1,5 @@
+#[Original Data](https://github.com/fivethirtyeight/russian-troll-tweets)
+
 # 3 million Russian troll tweets
 
 This data was used in the FiveThirtyEight story [Why We’re Sharing 3 Million Russian Troll Tweets](https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/).
